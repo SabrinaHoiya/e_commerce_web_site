@@ -1,0 +1,11 @@
+{
+  "name": "e_commerce_web_site",
+  "version": "1.0.0",
+  "description": "vivez sain est un site web de vente des produits 100% bio .",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sabrina",
+  "license": "ISC"
+}
